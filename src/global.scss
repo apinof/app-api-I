@@ -35,3 +35,13 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+
+.fondo {
+    --background: -webkit-linear-gradient(136deg, #92b069,#539d6f,#0f6c61); 
+ }
+.fondo-titulo{
+    --background: #b5b8b1;
+}
+.estilo-botones{
+    --background: #10332f !important;
+}
